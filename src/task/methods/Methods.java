@@ -1,6 +1,8 @@
 package task.methods;
 
 public class Methods {
+
+
     public static void main(String[] args) {
         // Пример вызова метода
         String string = getString("HELLO");
@@ -18,23 +20,27 @@ public class Methods {
 
 // TODO: Создайте метод который вернет сумму двух чисел
 
-    int sum (int a, int b )
-    {
-        int c = a + b ;
-        return c;
-    }
+    //int sum (int a, int b )
+   // {
+     //   int c = a + b ;
+       // return c;
+    //}
 
 
 // TODO: Создайте метод который вернет сумму двух переданных строк
-             public static String sum (String a , int  b )
-             {
-               return Integer.toString (sum);
+  //   String sum (String a, String b){
 
-             }
+   //     String c = a+b;
+   //     return c
+     }
 
 // TODO: создайте метод который примет строку внутри которой передается число , а также принимает число . Метод должен суммировать числа
 //  обернуть их в строку и вернуть результат строкой
+//          public static String sum (String a , int  b )
+    //         {
+    //            return Integer.toString (sum);
 
+    // }
 
 // TODO: Создайте метод который принимает строку , число . Внутри строки передается число . Проверить , что если число внутри строки больше чем
 //  число которое передается как int , то пусть метод вернет false , а если меньше , то true

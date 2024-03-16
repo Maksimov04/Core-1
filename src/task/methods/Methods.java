@@ -16,7 +16,7 @@ public class Methods {
         return example.toLowerCase();
     }
 
-// Реализуйте функциональность согласно описанию
+// Реализуйте функциональность согласно описанию`
 
 // TODO: Создайте метод который вернет сумму двух чисел
 
@@ -28,17 +28,26 @@ public class Methods {
 
 
 // TODO: Создайте метод который вернет сумму двух переданных строк
-  //   String sum (String a, String b){
+   //
+   // String sum(String a, String b){
 
-   //     String c = a+b;
-   //     return c
-     }
+  //      String c = a + b ;
+    //    return c
+
+   // }
 
 // TODO: создайте метод который примет строку внутри которой передается число , а также принимает число . Метод должен суммировать числа
 //  обернуть их в строку и вернуть результат строкой
-//          public static String sum (String a , int  b )
-    //         {
-    //            return Integer.toString (sum);
+
+//        public static String sum (String b , int a1) {
+//        int a = 3;
+//
+//        String text = "4";
+//
+//        int b1 = Integer.parseInt(text);
+//        int sum = (a + b1);
+//
+//        return Integer.toString(sum);
 
     // }
 

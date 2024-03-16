@@ -53,6 +53,14 @@ public class Methods {
 
 // TODO: Создайте метод который принимает строку , число . Внутри строки передается число . Проверить , что если число внутри строки больше чем
 //  число которое передается как int , то пусть метод вернет false , а если меньше , то true
+//public static boolean sum(String b, int a) {
+    // Integer int1 = 3;
+  //  int a1 = 9;
+
+    //String text = "8";
+    //int b1 = Integer.parseInt(text);
+    //boolean c1 = b1 > a1 ;
+    //return c1;
 
 
 // TODO: Создайте метод который принимает 2 булевые переменные . Если обе true , верни true , если хоть одна из них true верни true ,

@@ -65,7 +65,14 @@ public class Methods {
 
 // TODO: Создайте метод который принимает 2 булевые переменные . Если обе true , верни true , если хоть одна из них true верни true ,
 //  если обе false верни false
+  //  public  boolean equals (boolean a , boolean b) {
+    // boolean a1 = true;
+    // boolean b1 = true;
 
+    // boolean c1 = equals(a1==b1);
+
+    // return super.equals(c1);
+//}
 
 // TODO: Создайте метод который принимает число и вернет true если оно четное , и false если оно не четное
 

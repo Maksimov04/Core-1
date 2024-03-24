@@ -135,6 +135,36 @@ public class Methods {
 
 // TODO: Создайте методы в которые можно будет передавать свой возраст , а возвращаться сколько полных месяцев в этом возрасте ,
 //  тоесть если человек прожил 10 лет , это 120 месяцевтак же сделайте перевод возраста в минуты и метод который расчетает возраст в часах
+  //  public static int iR(int a){
+
+    //int age = 25;
+    //int  months = 12;
+
+    //return (age * months );
+
+
+
+  //  public static int iR(int a){
+
+    //    int age = 25;
+      //  int minutesPerYear  = 525600 ;
+
+      //  return (age * minutesPerYear );
+
+
+   // public static int iR(int a){
+
+       // int age = 25;
+      //  int hoursPerYear  = 8760 ;
+
+      //  return (age * hoursPerYear );
+
+
+
+
+
+
+
 
 
 // TODO: Создайте метод которому передаю имена , а он проверяет одинаковые ли они , причем не зависимо от регистра

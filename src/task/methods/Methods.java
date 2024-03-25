@@ -175,6 +175,21 @@ public class Methods {
     //return (a1 == b1);
 
 // TODO: Создайте метод которому можно передать массив элементов , а он вернет последний элемент
+  //  public static int myMetod(int[] array) {
+  //  int[] array1 = {1, 2, 3, 4, 5, 6, 7};
+    //int x = 7;
+    //int xIndex = -1;
+
+
+    //int i;
+    //for (i = 0; i < array1.length; i++) {
+      //  if (array1[i] == x) {
+        //    xIndex = i;
+
+        //}
+   // }
+    //return xIndex = i;
+
 
 
 

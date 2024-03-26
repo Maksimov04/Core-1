@@ -195,6 +195,20 @@ public class Methods {
 
 // TODO: Создайте метод счетчик букв А . Подается строка и метод посчитает сколько букв А в строке
 
+   // String givenString = "Banana Ananas";
+
+   // char givenChar = 'a';
+
+   // long count = givenString.chars().filter(c -> c == givenChar).count();
+
+        //    System.out.println("no of occurrences of char 'a' is " + count);
+
+
 
 // TODO: Создайте метод кошелек , у него есть началная сумма и можно вычитать пока деньги не кончатся или сумма не будет слишком велика
-}
+} //   public static String koshel(int a) {
+//  int koshelek = 10000;
+    //    while (koshelek > 0) {
+    //  System.out.println(100);
+//koshelek = koshelek - 10;
+//}
